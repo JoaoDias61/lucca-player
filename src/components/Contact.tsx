@@ -9,14 +9,14 @@ export function Contact() {
   return (
     <section id="contato" className="py-24 md:py-32 bg-background">
       <div className="mx-auto max-w-5xl px-4 sm:px-8">
-        <div className="relative rounded-[32px] bg-brand p-10 md:p-16 overflow-hidden">
+        <div className="relative rounded-[32px] bg-brand p-6 sm:p-10 md:p-16 overflow-hidden">
           <div className="absolute inset-0 dots-pattern opacity-30" />
 
           <div className="relative text-center">
             <span className="text-background/70 text-xs tracking-[0.4em] uppercase font-semibold">
               Contato
             </span>
-            <h2 className="mt-3 text-5xl md:text-7xl font-black text-background leading-[0.9]">
+            <h2 className="mt-3 text-4xl sm:text-5xl md:text-7xl font-black text-background leading-[0.9]">
               <span className="block">VAMOS</span>
               <span className="block">CONVERSAR?</span>
             </h2>

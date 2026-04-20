@@ -10,18 +10,18 @@ const geistSans = Geist({
 export const metadata: Metadata = {
   title: "Lucca Barros — Jogador de Futebol | Pouso Alegre",
   description:
-    "Site oficial de Lucca Barros, jogador de futebol de base de Pouso Alegre/MG. Meia e lateral esquerdo. Lances, estatísticas e contato para olheiros.",
+    "Site oficial de Lucca Barros, jogador de futebol de base de Pouso Alegre/MG. Volante. Lances, estatísticas e contato para olheiros.",
   keywords: [
     "Lucca Barros",
     "futebol de base",
     "Pouso Alegre",
     "jogador de futebol",
-    "meia",
-    "lateral esquerdo",
+    "volante",
+    "meio-campo",
   ],
   openGraph: {
     title: "Lucca Barros — Jogador de Futebol",
-    description: "Lances, estatísticas e jornada de Lucca, meia/lateral esquerdo de Pouso Alegre.",
+    description: "Lances, estatísticas e jornada de Lucca, volante de Pouso Alegre.",
     locale: "pt_BR",
     type: "website",
   },

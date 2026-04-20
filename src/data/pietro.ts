@@ -5,18 +5,18 @@ export const pietro = {
   nome: "Lucca Barros",
   apelido: "Lucca",
   idade: 8,
-  altura: "1,24 m",
-  peso: "24 kg",
-  peDominante: "Esquerdo",
+  altura: "1,55 m",
+  peso: "46 kg",
+  peDominante: "Direito",
   cidade: "Pouso Alegre",
   estado: "MG",
   anoNascimento: 2017,
-  posicoes: ["Meia", "Lateral Esquerdo"],
+  posicoes: ["Volante"],
 
   bio:
     "Lucca tem 8 anos e é apaixonado por futebol desde os 3. " +
-    "Joga como meia e lateral esquerdo, tem boa visão de jogo, drible curto " +
-    "e muita vontade de crescer no esporte. Mora em Pouso Alegre/MG.",
+    "Joga como volante, tem boa marcação, visão de jogo e distribuição de passes, " +
+    "além de muita vontade de crescer no esporte. Mora em Pouso Alegre/MG.",
 
   // Fotos reais do Lucca em public/imagens/ — adicionar/remover livremente
   fotos: {
