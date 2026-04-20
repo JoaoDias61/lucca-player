@@ -4,17 +4,17 @@
 export const pietro = {
   nome: "Lucca Barros",
   apelido: "Lucca",
-  idade: 8,
+  idade: 13,
   altura: "1,55 m",
   peso: "46 kg",
   peDominante: "Direito",
   cidade: "Pouso Alegre",
   estado: "MG",
-  anoNascimento: 2017,
+  anoNascimento: 2012,
   posicoes: ["Volante"],
 
   bio:
-    "Lucca tem 8 anos e é apaixonado por futebol desde os 3. " +
+    "Lucca tem 13 anos e é apaixonado por futebol desde os 4. " +
     "Joga como volante, tem boa marcação, visão de jogo e distribuição de passes, " +
     "além de muita vontade de crescer no esporte. Mora em Pouso Alegre/MG.",
 
@@ -105,27 +105,21 @@ export const pietro = {
   times: [
     {
       periodo: "2024 — atual",
-      nome: "Escolinha Pouso Alegre FC",
-      categoria: "Sub-9",
-      destaque: "Artilheiro do campeonato interno 2024",
-    },
-    {
-      periodo: "2023 — 2024",
-      nome: "Projeto Craques do Futuro",
-      categoria: "Sub-8",
-      destaque: "Eleito destaque do semestre",
+      nome: "Pouso Alegre FC",
+      categoria: "Sub-13 / Sub-14",
+      destaque: "Atual clube na categoria de base",
     },
     {
       periodo: "2022 — 2023",
-      nome: "Escolinha Bola na Rede",
-      categoria: "Sub-7",
-      destaque: "Primeiro campeonato disputado",
+      nome: "Sem clube",
+      categoria: "Sub-11",
+      destaque: "Período de preparação e treinamento individual",
     },
     {
-      periodo: "2020 — 2022",
-      nome: "Início no futebol",
-      categoria: "Fundamentos",
-      destaque: "Treinos de iniciação aos 3 anos",
+      periodo: "2020 — 2021",
+      nome: "Ferroviário",
+      categoria: "Sub-9",
+      destaque: "Primeiros anos no futebol de base",
     },
   ],
 
